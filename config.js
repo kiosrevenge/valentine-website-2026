@@ -80,8 +80,8 @@ const CONFIG = {
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/dxwzrvuap/video/upload/v1770687131/slayr_-_24_7_i4w22s.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
-        stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        stopText: "🔇 Mute Music",         // Button text to stop music
+        volume: 0.3                        // Volume level (0.0 to 1.0)
     }
 };
 
